@@ -12,3 +12,11 @@ The input is in the `parallel_texts.csv` file in the root. These data are taken 
 * [Burmester, OHE (1965-1966). Further leaves from the Arabic MS. in Coptic script of the Apophthegmata Patrum. *Bulletin de la Société d’archéologie copte* 18:51-64.](https://copticsounds.files.wordpress.com/2010/01/furtherleavesfromthearabicmsincopticscriptoftheapophthehmatapatrum.pdf)
 
 Additional data found in Sobhy 1926 have not yet been added due to time constraints. Updated readings of the Arabic found in Blau 1979 have not yet been included. This will change in future iterations.
+
+One minor issue to note is that Coptic <ⲟⲩ> has been replaced with the character <ȣ>. This was done to ensure that these will be treated as a single grapheme by the analysis. The results demonstrate the validity of this approach. Otherwise, <ⲟ> and <ⲩ> are separately correlated with various Arabic phonemes.
+
+## Results
+
+The code will create output files in the `output` directory.
+
+Viewable results in a formatted Excel spreadsheet are in the file: `Coptic-Arabic Text Alignment Results.xlsx`.
