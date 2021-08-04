@@ -19,4 +19,4 @@ One minor issue to note is that Coptic <ⲟⲩ> has been replaced with the chara
 
 The code will create output files in the `output` directory.
 
-Viewable results in a formatted Excel spreadsheet are in the file: `Coptic-Arabic Text Alignment Results.xlsx`.
+Viewable results in a formatted Excel spreadsheet are in the file: [`Coptic-Arabic Text Alignment Results.xlsx`](https://github.com/christiancasey/coptic-arabic/blob/master/Coptic-Arabic%20Text%20Alignment%20Results.xlsx).
